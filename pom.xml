@@ -69,7 +69,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <!-- Ensures application is packaged as a fat JAR -->
                     <mainClass>com.klu.artgallery.ArtGalleryApplication</mainClass>
                 </configuration>
             </plugin>
